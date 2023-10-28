@@ -1,2 +1,3 @@
-# wordpress-intro
-Introducción a WordPress y su Comunidad
+# Qué es WordPress
+
+Presentación de introducción a WordPress y su Comunidad.
